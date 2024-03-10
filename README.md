@@ -25,7 +25,7 @@ The calculator is designed to be easily customizable. If you wish to adapt it to
 
 ## File Path
 
-- Calculator HTML File: [calculator.html](calculator.html)
+- Calculator HTML File: [calculator.html](Calculator.html)
 
 ## License
 
